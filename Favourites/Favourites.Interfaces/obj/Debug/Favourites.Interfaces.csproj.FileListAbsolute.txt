@@ -1,0 +1,8 @@
+D:\Documents\Favourites-Repository\Favourites\Favourites.Interfaces\bin\Debug\Favourites.Interfaces.dll
+D:\Documents\Favourites-Repository\Favourites\Favourites.Interfaces\bin\Debug\Favourites.Interfaces.pdb
+D:\Documents\Favourites-Repository\Favourites\Favourites.Interfaces\bin\Debug\Favourites.Core.dll
+D:\Documents\Favourites-Repository\Favourites\Favourites.Interfaces\bin\Debug\Favourites.Core.pdb
+D:\Documents\Favourites-Repository\Favourites\Favourites.Interfaces\obj\Debug\Favourites.Interfaces.csprojResolveAssemblyReference.cache
+D:\Documents\Favourites-Repository\Favourites\Favourites.Interfaces\obj\Debug\Favourites.Interfaces.csproj.CoreCompileInputs.cache
+D:\Documents\Favourites-Repository\Favourites\Favourites.Interfaces\obj\Debug\Favourites.Interfaces.dll
+D:\Documents\Favourites-Repository\Favourites\Favourites.Interfaces\obj\Debug\Favourites.Interfaces.pdb

@@ -1,0 +1,6 @@
+D:\Documents\Favourites-Repository\Favourites\Extensions\Favourites.Extensions.dll
+D:\Documents\Favourites-Repository\Favourites\Extensions\Favourites.Extensions.pdb
+D:\Documents\Favourites-Repository\Favourites\Favourites.Extensions\obj\Debug\Favourites.Extensions.csprojResolveAssemblyReference.cache
+D:\Documents\Favourites-Repository\Favourites\Favourites.Extensions\obj\Debug\Favourites.Extensions.csproj.CoreCompileInputs.cache
+D:\Documents\Favourites-Repository\Favourites\Favourites.Extensions\obj\Debug\Favourites.Extensions.dll
+D:\Documents\Favourites-Repository\Favourites\Favourites.Extensions\obj\Debug\Favourites.Extensions.pdb
